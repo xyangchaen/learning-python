@@ -54,3 +54,4 @@ and it has many method.
 #function
 print('there has %d apples' % result)
 
+num1=list(set(num)) can make only one.
