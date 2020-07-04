@@ -51,5 +51,6 @@ a string can be regarded as a list
 str='i am a skywalker'
 str[1]>>' '
 and it has many method.
-
+#function
+print('there has %d apples' % result)
 
