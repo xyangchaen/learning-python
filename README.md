@@ -55,3 +55,9 @@ and it has many method.
 print('there has %d apples' % result)
 
 num1=list(set(num)) can make only one.
+
+#file 
+f=open('D:\\.txt','r')
+f.read()
+f.write(str)
+f.close()
