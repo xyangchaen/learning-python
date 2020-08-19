@@ -51,13 +51,30 @@ a string can be regarded as a list
 str='i am a skywalker'
 str[1]>>' '
 and it has many method.
-#function
+# function
 print('there has %d apples' % result)
 
 num1=list(set(num)) can make only one.
 
-#file 
+# file 
 f=open('D:\\.txt','r')
 f.read()
 f.write(str)
 f.close()
+
+# import
+import random
+x=random.randint(1,100)
+pickle
+
+# try 
+try:
+
+except OSError:
+print()
+
+finally:
+# easygui
+import easygui as ex
+
+
