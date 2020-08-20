@@ -95,3 +95,5 @@ super()._init_()
      print（self.name）
  c=t1()
  c.t11() will be c.t11(c)
+ 
+ static variable will not be del when a class is del.
