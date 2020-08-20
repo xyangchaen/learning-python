@@ -77,4 +77,11 @@ finally:
 # easygui
 import easygui as ex
 
+# class
+3 features
+self
+def _init_(self，):
+__name(private)
 
+child class will cover parents
+super()._init_()
