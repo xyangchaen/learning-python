@@ -85,3 +85,13 @@ __name(private)
 
 child class will cover parents
 super()._init_()
+ print(一共有%d %(self.nname))
+ 
+ when def class,def variable as few as possible
+ 
+ 
+ class t1():
+     def t11(self):
+     print（self.name）
+ c=t1()
+ c.t11() will be c.t11(c)
