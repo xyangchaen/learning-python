@@ -61,7 +61,7 @@ f=open('D:\\.txt','r')
 f.read()
 f.write(str)
 f.close()
-
+with open () as f
 # import
 import random
 x=random.randint(1,100)
