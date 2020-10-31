@@ -1,5 +1,8 @@
 # learning-python
 Now I begin to learn python,write down something which can be forgot easily.
+# some skills
+use ctrl+/ to note the selected lines
+use shift+tab to indent
 # variable
 Compared to other programing language,python's variables don't need to define types,and you can use '' to mean strings.
 e.g. t1=5                     t1='5'
